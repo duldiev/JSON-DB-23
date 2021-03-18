@@ -1,0 +1,132 @@
+{
+  "user": [
+    {
+      "id": 101,
+      "username": "LaTericElE",
+      "password": "LaTerpass",
+      "email": "DGEACEnTan@yahoo.com"
+    },
+    {
+      "id": 102,
+      "username": "otinAiRdiO",
+      "password": "otinApass",
+      "email": "GIVALAnAlD@mail.ru"
+    },
+    {
+      "id": 103,
+      "username": "ptIONfACti",
+      "password": "ptIONpass",
+      "email": "kIMINDrISE@gmail.com"
+    },
+    {
+      "id": 104,
+      "username": "MobERveRSy",
+      "password": "MobERpass",
+      "email": "BlUMIaLstI@mail.ru"
+    },
+    {
+      "id": 105,
+      "username": "ToreCUReSE",
+      "password": "ToreCpass",
+      "email": "Edmigypert@gmail.ru"
+    },
+    {
+      "id": 106,
+      "username": "AlykneyENe",
+      "password": "Alyknpass",
+      "email": "tILeRbitha@yandex.ru"
+    },
+    {
+      "id": 107,
+      "username": "RiuscardYE",
+      "password": "Riuscpass",
+      "email": "FleaRveRVI@yandex.ru"
+    },
+    {
+      "id": 108,
+      "username": "culGARIdEt",
+      "password": "culGApass",
+      "email": "ganeXERAnG@yandex.ru"
+    },
+    {
+      "id": 109,
+      "username": "IbLEvanYME",
+      "password": "IbLEvpass",
+      "email": "proPjaCYPe@gmail.com"
+    },
+    {
+      "id": 110,
+      "username": "aaa",
+      "password": "bbb",
+      "email": "ShAwBonGuI@gmail.com"
+    }
+  ],
+  "basic": [
+    {
+      "Generation": "Tesla Model 3",
+      "Acceleration": 5.3,
+      "Range": 263,
+      "TopSpeed": 140,
+      "Price": 14000,
+      "img": "https://evchargeplus.com/wp-content/uploads/2020/01/tesla-model3-evchargeplus-00.png"
+    },
+    {
+      "Generation": "Tesla Model S",
+      "Acceleration": 4.2,
+      "Range": 250,
+      "TopSpeed": 135,
+      "Price": 13000,
+      "img": "https://www.motortrend.com/uploads/sites/5/2020/09/2022-Tesla-Model-S-Plaid-White-.png"
+    },
+    {
+      "Generation": "Tesla Model X",
+      "Acceleration": 3.8,
+      "Range":245,
+      "TopSpeed": 132,
+      "Price": 25000,
+      "img": "https://i.insider.com/6011e35c6dfbe10018e005f3?width=1136&format=jpeg"
+    },
+    {
+      "Generation": "Tesla Model Y",
+      "Acceleration": 3.3,
+      "Range": 238,
+      "TopSpeed": 127,
+      "Price": 31000,
+      "img": "https://images.hgmsites.net/hug/tesla-model-y_100776331_h.jpg"
+    },
+    {
+      "Generation": "Tesla Model W",
+      "Acceleration": 3.0,
+      "Range": 235,
+      "TopSpeed": 125,
+      "Price": 55000,
+      "img": "https://s.aolcdn.com/commerce/autodata/images/USC70TSC024B021001.jpg"
+    }
+  ],
+  "other": [
+    {
+      "Generation": "Tesla Roadstar 1st Generation",
+      "Acceleration": 6.9,
+      "Range": 382,
+      "TopSpeed": 221,
+      "Price": 65000,
+      "img": "https://i.dlpng.com/static/png/4809312-amazoncom-2008-tesla-roadster-reviews-images-and-specs-vehicles-tesla-roadster-png-1084_560_preview.png"
+    },
+    {
+      "Generation": "Tesla Roadstar 2nd Generation",
+      "Acceleration": 8.7,
+      "Range": 400,
+      "TopSpeed": 243,
+      "Price": 80000,
+      "img": "https://crdms.images.consumerreports.org/c_lfill,w_720,q_auto,f_auto/prod/cars/cr/model-years/9120-2020-tesla-roadster"
+    },
+    {
+      "Generation": "Tesla Cybertruck",
+      "Acceleration": 6.5,
+      "Range": 302,
+      "TopSpeed": 198,
+      "Price": 95000,
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-tesla-cyber-truck-mmp-1-1579127142.jpg?crop=0.788xw:1.00xh;0.107xw,0&resize=640:*"
+    }
+  ]
+}
